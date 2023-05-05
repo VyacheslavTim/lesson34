@@ -1,5 +1,0 @@
-SECRET_KEY='$k6!^xqf@s8sm++8#js%2b8vd6in)jv8vmjbzryvihz83jwja-'
-DEBUG=True
-POSTGRES_USER=Vyacheslav
-POSTGRES_PASSWORD=qwerty12345
-POSTGRES_DB=todolist
